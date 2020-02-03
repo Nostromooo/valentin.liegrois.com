@@ -39,7 +39,7 @@ body.inverted .navigation a:hover, body.inverted .navigation a:focus {
 
 @media only screen and (max-width: 768px) {
   body.inverted .navigation .navigation-list {
-    background-color: #282a36;
+    background-color: #212121;
     border-top: solid 2px #424242;
     border-bottom: solid 2px #424242; } }
 
