@@ -50,6 +50,11 @@ disqusShortname = "Nostromo"
     icon = "fab fa-twitter fa-2x"
     weight = 3
     url = "https://twitter.com/nox_fr/"
+[[params.social]]
+    name = "Spotify"
+    icon = "fab fa-spotify fa-2x"
+    weight = 3
+    url = "https://open.spotify.com/user/1190274945?si=J2HVfX80R1iZNGahpCnOcg"
 
 # Menu links
 [[menu.main]]
