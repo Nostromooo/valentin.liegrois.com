@@ -1,6 +1,6 @@
 body.inverted {
   color: #dadada;
-  background-color: #282a36; }
+  background-color: #212121; }
   body.inverted a {
     color: #36679f; }
   body.inverted h1,
