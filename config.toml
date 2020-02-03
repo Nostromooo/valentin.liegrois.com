@@ -1,0 +1,63 @@
+baseurl = "https://victoraimbourg.name"
+title = "Victor Raimbourg"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+
+[params]
+    author = "Victor Raimbourg"
+    info = "Cloud Engineer"
+    keywords = "blog,cloud,devops,personal"
+    avatarurl = "img/avatar.jpg"
+
+    inverted = true
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    hidecredits = true
+    hidecopyright = true
+
+    rtl = false
+    math = false
+
+# Social links
+[[params.social]]
+    name = "Linkedin"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 1
+    url = "https://www.linkedin.com/in/victorraimbourg/"
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 2
+    url = "https://github.com/VictorRaim/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 3
+    url = "https://twitter.com/VictorRaimbourg/"
+[[params.social]]
+    name = "Meetup"
+    icon = "fab fa-meetup fa-2x"
+    weight = 4
+    url = "https://www.meetup.com/fr-FR/members/212984078/"
+
+# Menu links
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url = "/about/"
+# For future use
+#[[menu.main]]
+#    name = "Blog"
+#    weight = 1
+#    url  = "/posts/"
