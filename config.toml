@@ -1,8 +1,8 @@
 baseurl = "https://valentin.liegrois.com/"
 title = "Valentin Liegrois"
 theme = "hugo-coder"
-languagecode = "en"
-defaultcontentlanguage = "en"
+languagecode = "fr"
+defaultcontentlanguage = "fr"
 
 paginate = 20
 canonifyurls = true
@@ -31,6 +31,7 @@ disqusShortname = "Nostromo"
 
     rtl = false
     math = false
+    colorscheme = "dark"
 
 # Social links
 [[params.social]]
