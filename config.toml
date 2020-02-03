@@ -19,8 +19,9 @@ disqusShortname = "Nostromo"
     description = "Site web de Valentin Liegrois"
     keywords = "consultant,portfolio,personal"
     avatarurl = "img/avatar.jpg"
-
+    
     inverted = true
+    colorscheme = "dark"
 
     favicon_32 = "/public/img/favicon-32x32.png"
     favicon_16 = "/public/img/favicon-16x16.png"
