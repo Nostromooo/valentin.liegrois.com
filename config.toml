@@ -21,7 +21,6 @@ disqusShortname = "Nostromo"
     avatarurl = "img/avatar.jpg"
     
     inverted = true
-    colorscheme = "dark"
 
     favicon_32 = "/public/img/favicon-32x32.png"
     favicon_16 = "/public/img/favicon-16x16.png"
@@ -32,6 +31,8 @@ disqusShortname = "Nostromo"
     rtl = false
     math = false
     colorscheme = "dark"
+
+    custom_css = []
 
 # Social links
 [[params.social]]
