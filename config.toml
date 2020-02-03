@@ -18,7 +18,7 @@ disqusShortname = "Nostromo"
     info = "Consultant Cloud"
     description = "Site web de Valentin Liegrois"
     keywords = "consultant,portfolio,personal"
-    avatarurl = "https://pbs.twimg.com/profile_images/1191650158053859328/dKQYzmaM_400x400.jpg"
+    avatarurl = "img/avatar.jpg"
 
     inverted = true
 
