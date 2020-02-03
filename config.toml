@@ -30,6 +30,7 @@ disqusShortname = "Nostromo"
 
     rtl = false
     math = false
+    colorscheme = "dark"
 
 # Social links
 [[params.social]]
